@@ -1,0 +1,1301 @@
+{
+	"device_name":"Lenovo Yoga Tab 11", 
+	"device_model":"LENOVO Lenovo YT-J706F", 
+	"resolution":"2000 x 1200 @ 60Hz", 
+	"soft_version":1677, 
+	"device_type":"Handheld", 
+	"student_id":"2021_10_20_09_22_12_447", 
+	"soft_configuration_name":"C-Map", 
+	"device_uid":"7f487ce21e4ff99547518dbb59c9f46d", 
+	"screenCalibration":
+	[
+		"Les points sont distribu\u00e9s comme suit, Point0 au milieu, Point1 en haut \u00e0 gauche, Point2 au milieu, Point3 en bas \u00e0 droite, Point4 au milieu, Point5 en bas \u00e0 gauche, Point6 au milieu, Point7 en haut \u00e0 droite", 
+		
+		{
+			"name":"Point0", 
+			"bump_ts":1634718222.84967, 
+			"relativeScreenPositionX":0.5, 
+			"relativeScreenPositionY":0.517111122608185, 
+			"hit_ts":1634718224.61607, 
+			"displayTime":1.76640796661377
+		}, 
+		
+		{
+			"name":"Point1", 
+			"bump_ts":1634718226.58364, 
+			"relativeScreenPositionX":0.212500005960464, 
+			"relativeScreenPositionY":0.780500054359436, 
+			"hit_ts":1634718228.21699, 
+			"displayTime":1.6333589553833
+		}, 
+		
+		{
+			"name":"Point0", 
+			"bump_ts":1634718231.68431, 
+			"relativeScreenPositionX":0.5, 
+			"relativeScreenPositionY":0.517111122608185, 
+			"hit_ts":1634718233.41807, 
+			"displayTime":1.7337749004364
+		}, 
+		
+		{
+			"name":"Point2", 
+			"bump_ts":1634718235.41819, 
+			"relativeScreenPositionX":0.787500023841858, 
+			"relativeScreenPositionY":0.254999995231628, 
+			"hit_ts":1634718236.88533, 
+			"displayTime":1.46717214584351
+		}, 
+		
+		{
+			"name":"Point0", 
+			"bump_ts":1634718240.3523, 
+			"relativeScreenPositionX":0.5, 
+			"relativeScreenPositionY":0.517111122608185, 
+			"hit_ts":1634718241.686, 
+			"displayTime":1.33371090888977
+		}, 
+		
+		{
+			"name":"Point3", 
+			"bump_ts":1634718243.65371, 
+			"relativeScreenPositionX":0.212500005960464, 
+			"relativeScreenPositionY":0.254999995231628, 
+			"hit_ts":1634718245.77005, 
+			"displayTime":2.11634302139282
+		}, 
+		
+		{
+			"name":"Point0", 
+			"bump_ts":1634718249.23691, 
+			"relativeScreenPositionX":0.5, 
+			"relativeScreenPositionY":0.517111122608185, 
+			"hit_ts":1634718250.57089, 
+			"displayTime":1.33399415016174
+		}, 
+		
+		{
+			"name":"Point4", 
+			"bump_ts":1634718252.53781, 
+			"relativeScreenPositionX":0.787500023841858, 
+			"relativeScreenPositionY":0.780500054359436, 
+			"hit_ts":1634718254.07125, 
+			"displayTime":1.53344202041626
+		}, 
+		
+		{
+			"digit_inputs":
+			[
+				
+				{
+					"ts":1634718163.40101, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.617191433906555, 
+							"relativePosition_y":0.222314760088921, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718164.17321, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.985007524490356, 
+							"relativePosition_y":0.171523749828339, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718164.20617, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.985007524490356, 
+							"relativePosition_y":0.171523749828339, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718164.23959, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.985007524490356, 
+							"relativePosition_y":0.171523749828339, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718164.73929, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.203898057341576, 
+							"relativePosition_y":0.0216486621648073, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718164.77288, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.203898057341576, 
+							"relativePosition_y":0.0216486621648073, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.5761, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.433783113956451, 
+							"relativePosition_y":0.122397966682911, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.60939, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.433783113956451, 
+							"relativePosition_y":0.122397966682911, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.64273, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.433783113956451, 
+							"relativePosition_y":0.122397966682911, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.67603, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.433783113956451, 
+							"relativePosition_y":0.122397966682911, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.70914, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.433783113956451, 
+							"relativePosition_y":0.122397966682911, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.74261, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.435119956731796, 
+							"relativePosition_y":0.120868019759655, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.77606, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.438480824232101, 
+							"relativePosition_y":0.115653485059738, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.80913, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.442105889320374, 
+							"relativePosition_y":0.107442319393158, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.8427, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.445146709680557, 
+							"relativePosition_y":0.0967140719294548, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718183.87612, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.44677659869194, 
+							"relativePosition_y":0.0907577499747276, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718196.42856, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.410794615745544, 
+							"relativePosition_y":0.0990840643644333, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718196.46205, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.410794615745544, 
+							"relativePosition_y":0.0990840643644333, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718196.4955, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.410794615745544, 
+							"relativePosition_y":0.0990840643644333, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718196.5286, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.410794615745544, 
+							"relativePosition_y":0.0990840643644333, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718196.56165, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.410794615745544, 
+							"relativePosition_y":0.0990840643644333, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718196.59514, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.410794615745544, 
+							"relativePosition_y":0.0990840643644333, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718196.62855, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.410794615745544, 
+							"relativePosition_y":0.0990840643644333, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718196.6625, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.410794615745544, 
+							"relativePosition_y":0.0990840643644333, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718219.18214, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.496751636266708, 
+							"relativePosition_y":0.103247277438641, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718219.21496, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.496751636266708, 
+							"relativePosition_y":0.103247277438641, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718219.24849, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.496751636266708, 
+							"relativePosition_y":0.103247277438641, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718219.28214, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.496751636266708, 
+							"relativePosition_y":0.103247277438641, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718219.31547, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.496751636266708, 
+							"relativePosition_y":0.103247277438641, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718219.34884, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.496751636266708, 
+							"relativePosition_y":0.103247277438641, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718219.38249, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.496751636266708, 
+							"relativePosition_y":0.103247277438641, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718224.44988, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.501749157905579, 
+							"relativePosition_y":0.568692803382874, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718224.48273, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.501749157905579, 
+							"relativePosition_y":0.568692803382874, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718224.5165, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.501749157905579, 
+							"relativePosition_y":0.568692803382874, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718224.54969, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.501469969749451, 
+							"relativePosition_y":0.567394971847534, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718224.58285, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.50002658367157, 
+							"relativePosition_y":0.563324987888336, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718224.61622, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.498250871896744, 
+							"relativePosition_y":0.553705215454102, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718226.61692, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.450274884700775, 
+							"relativePosition_y":0.569525420665741, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718226.64982, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.450274884700775, 
+							"relativePosition_y":0.569525420665741, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718226.68335, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.451088100671768, 
+							"relativePosition_y":0.569525420665741, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718226.71672, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.462497502565384, 
+							"relativePosition_y":0.566615104675293, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718226.75033, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.47326335310936, 
+							"relativePosition_y":0.562864303588867, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718226.94991, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.488755643367767, 
+							"relativePosition_y":0.53538715839386, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718226.98391, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.488755643367767, 
+							"relativePosition_y":0.53538715839386, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718228.01744, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.195902049541473, 
+							"relativePosition_y":0.768526256084442, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718228.0504, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.195902049541473, 
+							"relativePosition_y":0.768526256084442, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718228.08403, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.195902049541473, 
+							"relativePosition_y":0.768526256084442, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718228.1173, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.195902049541473, 
+							"relativePosition_y":0.768526256084442, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718228.15058, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.195902049541473, 
+							"relativePosition_y":0.769763290882111, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718228.18358, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.195902049541473, 
+							"relativePosition_y":0.776294052600861, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718228.21716, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.195902049541473, 
+							"relativePosition_y":0.77851790189743, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718233.28543, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.495252370834351, 
+							"relativePosition_y":0.534554541110992, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718233.3184, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.495252370834351, 
+							"relativePosition_y":0.534554541110992, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718233.3514, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.495252370834351, 
+							"relativePosition_y":0.534554541110992, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718233.38482, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.496939241886139, 
+							"relativePosition_y":0.528621137142181, 
+							"phase":"Moved"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718233.41824, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.497751116752625, 
+							"relativePosition_y":0.527060806751251, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718233.71776, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.478260904550552, 
+							"relativePosition_y":0.536219835281372, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718233.75106, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.478260904550552, 
+							"relativePosition_y":0.536219835281372, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718233.78448, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.478260904550552, 
+							"relativePosition_y":0.536219835281372, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718236.68653, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.780609726905823, 
+							"relativePosition_y":0.245628654956818, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718236.71845, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.780609726905823, 
+							"relativePosition_y":0.245628654956818, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718236.75206, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.780609726905823, 
+							"relativePosition_y":0.245628654956818, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718236.78515, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.780609726905823, 
+							"relativePosition_y":0.245628654956818, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718236.81866, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.780609726905823, 
+							"relativePosition_y":0.245628654956818, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718236.85157, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.780609726905823, 
+							"relativePosition_y":0.245628654956818, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718236.88555, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.780609726905823, 
+							"relativePosition_y":0.245628654956818, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718241.58712, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.497751116752625, 
+							"relativePosition_y":0.559533715248108, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718241.61921, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.497751116752625, 
+							"relativePosition_y":0.559533715248108, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718241.65255, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.497751116752625, 
+							"relativePosition_y":0.559533715248108, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718241.68618, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.502748608589172, 
+							"relativePosition_y":0.554537892341614, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718245.73726, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.185907036066055, 
+							"relativePosition_y":0.233139038085938, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718245.77025, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.185907036066055, 
+							"relativePosition_y":0.233139038085938, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718250.471, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.510244905948639, 
+							"relativePosition_y":0.552039980888367, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718250.50399, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.510244905948639, 
+							"relativePosition_y":0.552039980888367, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718250.53802, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.510244905948639, 
+							"relativePosition_y":0.552039980888367, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718250.57107, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.510244905948639, 
+							"relativePosition_y":0.552039980888367, 
+							"phase":"Ended"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718253.93819, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.801599264144897, 
+							"relativePosition_y":0.790174841880798, 
+							"phase":"Began"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718253.97128, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.801599264144897, 
+							"relativePosition_y":0.790174841880798, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718254.00474, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.801599264144897, 
+							"relativePosition_y":0.790174841880798, 
+							"phase":"Stationary"
+						}
+					]
+				}, 
+				
+				{
+					"ts":1634718254.03799, 
+					"touchCount":1, 
+					"touches":
+					[
+						
+						{
+							"fingerId":0, 
+							"relativePosition_x":0.801855623722076, 
+							"relativePosition_y":0.787227988243103, 
+							"phase":"Moved"
+						}
+					]
+				}
+			]
+		}, 
+		
+		{
+			"video":
+			{
+				"stop_ts":1634718254.07133, 
+				"path":"/storage/emulated/0/Android/data/com.exkee.crocos/files/.local/share/Sessions/2021_10_20_09_22_12_447/recording_2021_10_20_11_23_17_411.mp4", 
+				"start_ts":1634718197.38908
+			}
+		}
+	]
+}

@@ -1,0 +1,3 @@
+[submodule "dependencies/spectrum_api"]
+	path = dependencies/spectrum_api
+	url = git@github.com:CommitOnceAgain/spectrum_api.git
