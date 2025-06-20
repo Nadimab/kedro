@@ -1,0 +1,19 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://kedro.readthedocs.io/en/stable/data/data_catalog.html
+
+local_json_dataset:
+  type: PartitionedDataSet
+  path: data/01_raw/logs
+  dataset: json.JSONDataSet
+
+validated_json_dataset:
+  type: PartitionedDataSet
+  path: data/02_intermediate/logs
+  dataset: json.JSONDataSet
+
+features_dataset:
+  type: PartitionedDataSet
+  path: data/03_primary/logs
+  dataset: pillow.ImageDataSet
