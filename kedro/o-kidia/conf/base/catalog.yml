@@ -1,0 +1,55 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://kedro.readthedocs.io/en/stable/data/data_catalog.html
+
+local_json_dataset:
+  type: PartitionedDataSet
+  path: data/01_raw/logs
+  dataset: json.JSONDataSet
+
+validated_json_dataset:
+  type: PartitionedDataSet
+  path: data/02_intermediate/logs
+  dataset: json.JSONDataSet
+
+heatmap_img_dataset:
+  type: PartitionedDataSet
+  path: data/03_primary/logs
+  dataset: matplotlib.MatplotlibWriter
+
+features_dataset:
+  type : PartitionedDataSet
+  path: data/04_feature/logs
+  dataset: pickle.PickleDataSet
+
+DTW_Similarity_dataset:
+  type: PartitionedDataSet 
+  path: data/05_DTW/logs
+  dataset: pickle.PickleDataSet 
+
+reduced_points:
+  type: PartitionedDataSet
+  path: data/03_primary/logs_traj
+  dataset: pickle.PickleDataSet
+
+features_dataset_traj:
+  type: PartitionedDataSet
+  path: data/04_feature/logs_traj
+  dataset: pillow.ImageDataSet
+
+challenges_plot:
+  type: PartitionedDataSet
+  path: data/03_primary
+  dataset: matplotlib.MatplotlibWriter
+
+Haussdorf_Matrix:
+  type: PartitionedDataSet
+  path: data/04_feature/logs_traj
+  dataset: pickle.PickleDataSet
+
+# features_dataset:
+#   type: PartitionedDataSet
+#   path: data/03_primary/logs
+#   dataset: pillow.ImageDataSet
+
